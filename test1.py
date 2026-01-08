@@ -1,4 +1,4 @@
 a=2
 b=2
-add=a+b
-print(add)
+addition=a+b
+print(addition)
